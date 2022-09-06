@@ -64,7 +64,7 @@ export const Home = () => {
                 <ListTech2>
                  {wo}
                  <Bu onClick={()=>borrado(wo)}>
-                 <img src="https://res.cloudinary.com/daalu/image/upload/v1650045972/recursos_Job_listing/icon-remove_vuumpr.svg" alt="cerrar"></img>
+                 <img src="https://res.cloudinary.com/cortiz/image/upload/v1650045972/recursos_Job_listing/icon-remove_vuumpr.svg" alt="cerrar"></img>
                  </Bu>
                 </ListTech2>
                 </Ultech>
