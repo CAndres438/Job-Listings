@@ -2,7 +2,7 @@
     {
       "id": 1,
       "company": "Photosnap",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045972/recursos_Job_listing/photosnap_nlepoo.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045972/recursos_Job_listing/photosnap_nlepoo.svg",
       "new": true,
       "featured": true,
       "position": "Senior Frontend Developer",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "company": "Manage",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045972/recursos_Job_listing/manage_fbugp2.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045972/recursos_Job_listing/manage_fbugp2.svg",
       "new": true,
       "featured": true,
       "position": "Fullstack Developer",
@@ -32,7 +32,7 @@
     {
       "id": 3,
       "company": "Account",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045969/recursos_Job_listing/account_w851k3.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045969/recursos_Job_listing/account_w851k3.svg",
       "new": true,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -47,7 +47,7 @@
     {
       "id": 4,
       "company": "MyHome",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045972/recursos_Job_listing/myhome_wk9pel.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045972/recursos_Job_listing/myhome_wk9pel.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -62,7 +62,7 @@
     {
       "id": 5,
       "company": "Loop Studios",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045972/recursos_Job_listing/loop-studios_hqx0zu.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045972/recursos_Job_listing/loop-studios_hqx0zu.svg",
       "new": false,
       "featured": false,
       "position": "Software Engineer",
@@ -77,7 +77,7 @@
     {
       "id": 6,
       "company": "FaceIt",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045969/recursos_Job_listing/faceit_adbbvw.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045969/recursos_Job_listing/faceit_adbbvw.svg",
       "new": false,
       "featured": false,
       "position": "Junior Backend Developer",
@@ -92,7 +92,7 @@
     {
       "id": 7,
       "company": "Shortly",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045974/recursos_Job_listing/shortly_keomdo.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045974/recursos_Job_listing/shortly_keomdo.svg",
       "new": false,
       "featured": false,
       "position": "Junior Developer",
@@ -107,7 +107,7 @@
     {
       "id": 8,
       "company": "Insure",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045970/recursos_Job_listing/insure_rpyt81.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045970/recursos_Job_listing/insure_rpyt81.svg",
       "new": false,
       "featured": false,
       "position": "Junior Frontend Developer",
@@ -122,7 +122,7 @@
     {
       "id": 9,
       "company": "Eyecam Co.",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045970/recursos_Job_listing/eyecam-co_yyux3k.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045970/recursos_Job_listing/eyecam-co_yyux3k.svg",
       "new": false,
       "featured": false,
       "position": "Full Stack Engineer",
@@ -137,7 +137,7 @@
     {
       "id": 10,
       "company": "The Air Filter Company",
-      "logo": "https://res.cloudinary.com/daalu/image/upload/v1650045973/recursos_Job_listing/the-air-filter-company_lbal9i.svg",
+      "logo": "https://res.cloudinary.com/cortiz/image/upload/v1650045973/recursos_Job_listing/the-air-filter-company_lbal9i.svg",
       "new": false,
       "featured": false,
       "position": "Front-end Dev",
